@@ -1,4 +1,5 @@
-KitBash KVM is a DIY hardware and software solution for controlling one machine with another.
+# KitBash KVM
+KitBash KVM is a hardware and software solution for controlling one machine with another.
 
 If you have ever wanted a simple device to let you control another machine with your current screen, mouse, and keyboard, be that a server, raspberry pi, or android device, KitBash KVM lets you do that, and is 100% open source.
 
@@ -9,7 +10,7 @@ I will be keeping built devices and kits on my tindie store.
 
 ## How to use?
 Plug in a USBC cable to your laptop, and then one USBC cable and one HDMI cable to the machine you wish to controlling.
-Next choose to either use the installation less Google Chrome Web Controller, or download a native Windows client from the Microsoft Store.
+Next choose to either use the installationless Google Chrome Web Controller, or download a native Windows client from the Microsoft Store.
 
 ## Can I make my own?
 ABSOLUTELY! Wiki instructions here on GitHub will detail how to build or use alternative parts.
